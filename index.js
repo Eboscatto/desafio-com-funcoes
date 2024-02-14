@@ -1,10 +1,10 @@
-//Bootcamp potência tech ifood - programação do zero
+//Bootcamp Potência Tech iFood - Programação do Zero
 //segundo desafio de projeto - Calculadora de partidas Rankeadas
 //Desenvolvido por: Everaldo Boscatto
 
 //Declarando variáveis:
-let vitoria = 1
-let derrota = 0
+let vitoria = 101
+let derrota = 10
 let saldo = calcularRanking(vitoria, derrota)
 let vitorias = getLevel(saldo) 
 var resultado = ""
